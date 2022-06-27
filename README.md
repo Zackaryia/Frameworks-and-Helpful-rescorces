@@ -12,3 +12,4 @@ Things I want to learn
 
 2. Rust (a language like c++ with no memory leaks and a loving fan base)
 
+https://gist.github.com/1lann/885f6b85b99d19b88bec
